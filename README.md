@@ -6,6 +6,7 @@
 課題1
 
 
+
 内容：
 
 raspberrypi2を使用し、GPIO25ピンから信号を出力してLEDを点滅させました。
@@ -18,6 +19,7 @@ $ echo 0 > /sys/class/gpio/gpio25/value
 
 で消灯
 
+
 回路構成：
 
 ・raspberrypi2
@@ -25,6 +27,8 @@ $ echo 0 > /sys/class/gpio/gpio25/value
 ・赤色LED
 
 ・100Ωの抵抗
+
+
 
 
 
