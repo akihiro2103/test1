@@ -5,7 +5,7 @@
 
 課題1
 
-
+  
 
 内容：
 
@@ -19,7 +19,7 @@ $ echo 0 > /sys/class/gpio/gpio25/value
 
 で消灯
 
-
+  
 回路構成：
 
 ・raspberrypi2
@@ -30,9 +30,9 @@ $ echo 0 > /sys/class/gpio/gpio25/value
 
 
 
+  
 
-
-
+  
 Reference
 
 以下のサイトを参考にしました。
