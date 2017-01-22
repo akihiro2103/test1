@@ -5,7 +5,7 @@
 
 課題1
 
-  
+    
 
 内容：
 
@@ -18,7 +18,7 @@ $ echo 1 > /sys/class/gpio/gpio25/value
 $ echo 0 > /sys/class/gpio/gpio25/value
 
 で消灯
-
+  
   
 回路構成：
 
@@ -28,8 +28,8 @@ $ echo 0 > /sys/class/gpio/gpio25/value
 
 ・100Ωの抵抗
 
-
-
+ 
+ 
   
 
   
